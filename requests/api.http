@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.notion.so/Frontend-Developer-Learning-Guide-39e189f4a49b4fcb9a6304ebf1f327a9"
+}
